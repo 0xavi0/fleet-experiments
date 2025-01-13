@@ -1,5 +1,5 @@
 helm:
   chart: config-chart
   values:
-    name: 36-8
+    name: 36-9
   takeOwnership: true
